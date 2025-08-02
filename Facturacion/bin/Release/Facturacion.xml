@@ -1,0 +1,115 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Facturacion
+</name>
+</assembly>
+<members>
+<member name="T:Facturacion.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Facturacion.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Facturacion.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:Facturacion.AllegedRC4">
+ <summary>
+ Más información en http://www.jc-mouse.net/
+ </summary>
+</member>
+<member name="M:Facturacion.AllegedRC4.encryptMessageRC4(System.String,System.String,System.Boolean)">
+ <summary>
+ Encripta usando AllegedRC4
+ </summary>
+ <param name="message">mensaje a encriptar</param>
+ <param name="key">llave de cifrado</param>
+ <param name="unscripted">TRUE sin guion separados</param>
+ <returns>mensaje encriptado</returns>
+</member>
+<member name="T:Facturacion.Base64SIN">
+ <summary>
+ Más información en http://www.jc-mouse.net/
+ </summary>
+</member>
+<member name="M:Facturacion.Base64SIN.convertBase64(System.Int32)">
+ <summary>
+ Codificador base64
+ </summary>
+ <param name="value">Numero a codificar</param>                
+ <returns>Cadena codificada</returns>
+</member>
+<member name="T:Facturacion.ControlCode">
+ <summary>
+ Más información en http://www.jc-mouse.net/
+ </summary>
+</member>
+<member name="M:Facturacion.ControlCode.generateControlCode(System.String,System.String,System.String,System.String,System.String,System.String)">
+ <summary>
+ Genera codigo de control
+ </summary>
+ <param name="authorizationNumber">Numero de autorizacion</param>        
+ <param name="invoiceNumber">Numero de factura</param>        
+ <param name="nitci">Número de Identificación Tributaria o Carnet de Identidad</param>        
+ <param name="dateOfTransaction">fecha de transaccion de la forma AAAAMMDD</param>        
+ <param name="transactionAmount">Monto de la transacción</param>        
+ <param name="dosageKey">Llave de dosificación</param>        
+ <returns>Codigo de Control generado de la forma 6A-DC-53-05-14</returns>
+</member>
+<member name="M:Facturacion.ControlCode.addVerhoeffDigit(System.String,System.Int32)">
+ <summary>
+ Agrega N digitos d Verhoeff a una cadena
+ </summary>
+ <param name="value">cadena donde agregar digitos de Verhoeff</param>
+ <param name="max">cantidad de digitos a agregar</param>
+ <returns>cadena original + N digitos de Verhoeff</returns>
+</member>
+<member name="M:Facturacion.ControlCode.roundUp(System.String)">
+ <summary>
+ redonde un numero hacia arriba 
+ </summary>
+ <param name="value">cadena que contiene el numero a redondear de la forma 123 ; 123.6 123,6</param>
+ <returns>el numero redondeado</returns>
+</member>
+<member name="T:Facturacion.Verhoeff">
+ <summary>
+ For more information cf. http://en.wikipedia.org/wiki/Verhoeff_algorithm
+ Dihedral Group: http://mathworld.wolfram.com/DihedralGroup.html
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:Facturacion.Verhoeff.validateVerhoeff(System.String)">
+ <summary>
+ Validates that an entered number is Verhoeff compliant.
+ </summary>
+ <param name="num"></param>
+ <returns>True if Verhoeff compliant, otherwise false</returns>
+ <remarks>Make sure the check digit is the last one!</remarks>
+</member>
+<member name="M:Facturacion.Verhoeff.generateVerhoeff(System.String)">
+ <summary>
+ For a given number generates a Verhoeff digit
+ </summary>
+ <param name="num"></param>
+ <returns>Verhoeff check digit as string</returns>
+ <remarks>Append this check digit to num</remarks>
+</member>
+<member name="M:Facturacion.Verhoeff.StringToReversedIntArray(System.String)">
+ <summary>
+ Converts a string to a reversed integer array.
+ </summary>
+ <param name="str"></param>
+ <returns>Reversed integer array</returns>
+ <remarks></remarks>
+</member>
+</members>
+</doc>

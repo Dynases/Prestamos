@@ -1,0 +1,20 @@
+E:\Proyecto Dino\DinoRepuesto_Diesel\Facturacion\bin\Debug\Facturacion.dll
+E:\Proyecto Dino\DinoRepuesto_Diesel\Facturacion\bin\Debug\Facturacion.pdb
+E:\Proyecto Dino\DinoRepuesto_Diesel\Facturacion\bin\Debug\Facturacion.xml
+E:\Proyecto Dino\DinoRepuesto_Diesel\Facturacion\obj\Debug\Facturacion.Resources.resources
+E:\Proyecto Dino\DinoRepuesto_Diesel\Facturacion\obj\Debug\Facturacion.vbproj.GenerateResource.cache
+E:\Proyecto Dino\DinoRepuesto_Diesel\Facturacion\obj\Debug\Facturacion.vbproj.CoreCompileInputs.cache
+E:\Proyecto Dino\DinoRepuesto_Diesel\Facturacion\obj\Debug\Facturacion.dll
+E:\Proyecto Dino\DinoRepuesto_Diesel\Facturacion\obj\Debug\Facturacion.xml
+E:\Proyecto Dino\DinoRepuesto_Diesel\Facturacion\obj\Debug\Facturacion.pdb
+E:\Proyecto Dino\DinoRepuesto_Diesel\Facturacion\obj\Debug\Facturacion.vbproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\Prestamos\Facturacion\bin\Debug\Facturacion.dll
+C:\Users\USUARIO\source\repos\Prestamos\Facturacion\bin\Debug\Facturacion.pdb
+C:\Users\USUARIO\source\repos\Prestamos\Facturacion\bin\Debug\Facturacion.xml
+C:\Users\USUARIO\source\repos\Prestamos\Facturacion\obj\Debug\Facturacion.Resources.resources
+C:\Users\USUARIO\source\repos\Prestamos\Facturacion\obj\Debug\Facturacion.vbproj.GenerateResource.cache
+C:\Users\USUARIO\source\repos\Prestamos\Facturacion\obj\Debug\Facturacion.vbproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\Prestamos\Facturacion\obj\Debug\Facturacion.dll
+C:\Users\USUARIO\source\repos\Prestamos\Facturacion\obj\Debug\Facturacion.xml
+C:\Users\USUARIO\source\repos\Prestamos\Facturacion\obj\Debug\Facturacion.pdb
+C:\Users\USUARIO\source\repos\Prestamos\Facturacion\obj\Debug\Facturacion.vbproj.AssemblyReference.cache

@@ -1,0 +1,18 @@
+E:\Proyecto Dino\DinoRepuesto_Diesel\Datos\bin\Debug\Datos.dll
+E:\Proyecto Dino\DinoRepuesto_Diesel\Datos\bin\Debug\Datos.pdb
+E:\Proyecto Dino\DinoRepuesto_Diesel\Datos\bin\Debug\Datos.xml
+E:\Proyecto Dino\DinoRepuesto_Diesel\Datos\obj\Debug\Datos.Resources.resources
+E:\Proyecto Dino\DinoRepuesto_Diesel\Datos\obj\Debug\Datos.vbproj.GenerateResource.cache
+E:\Proyecto Dino\DinoRepuesto_Diesel\Datos\obj\Debug\Datos.vbproj.CoreCompileInputs.cache
+E:\Proyecto Dino\DinoRepuesto_Diesel\Datos\obj\Debug\Datos.dll
+E:\Proyecto Dino\DinoRepuesto_Diesel\Datos\obj\Debug\Datos.xml
+E:\Proyecto Dino\DinoRepuesto_Diesel\Datos\obj\Debug\Datos.pdb
+C:\Users\USUARIO\source\repos\Prestamos\datos\bin\Debug\Datos.dll
+C:\Users\USUARIO\source\repos\Prestamos\datos\bin\Debug\Datos.pdb
+C:\Users\USUARIO\source\repos\Prestamos\datos\bin\Debug\Datos.xml
+C:\Users\USUARIO\source\repos\Prestamos\datos\obj\Debug\Datos.Resources.resources
+C:\Users\USUARIO\source\repos\Prestamos\datos\obj\Debug\Datos.vbproj.GenerateResource.cache
+C:\Users\USUARIO\source\repos\Prestamos\datos\obj\Debug\Datos.vbproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\Prestamos\datos\obj\Debug\Datos.dll
+C:\Users\USUARIO\source\repos\Prestamos\datos\obj\Debug\Datos.xml
+C:\Users\USUARIO\source\repos\Prestamos\datos\obj\Debug\Datos.pdb

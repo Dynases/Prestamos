@@ -1,0 +1,100 @@
+IP=hp
+User=sa
+Password=123
+Name_DB=BDPrestamos
+Folder_Root=C:\BD
+Folder_guide=C:\
+
+IP=209.126.83.46
+User=sa
+Password=Dynasys822*
+Name_DB=BDPrestamos
+Folder_Root=C:\BD
+Folder_guide=C:\
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+set @trfec ='02/01/2023' 
+set @fechaF ='31/12/2023'
+set	@trcan =467
+set @trins =31
+set @tralm =1
+
+declare @trfec date 
+declare @fechaF date
+declare	@trcan int
+declare @trins int
+declare @tralm int
+
+4407
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

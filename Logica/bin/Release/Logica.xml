@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Logica
+</name>
+</assembly>
+<members>
+<member name="T:Logica.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Logica.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Logica.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:Logica.AccesoLogica.L_prVentasAtendidaGeneralAlmacenVendedorFacturaSinIce(System.String,System.String)">
+FACTURA SIN ICE
+</member>
+<member name="M:Logica.AccesoLogica.L_prVentasAtendidaGeneralAlmacenVendedorSinFacturaSinIce(System.String,System.String)">
+sin FACTURA SIN ICE
+</member>
+</members>
+</doc>

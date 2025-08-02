@@ -1,0 +1,28 @@
+E:\Proyecto Dino\DinoRepuesto_Diesel\Logica\bin\Debug\Logica.dll
+E:\Proyecto Dino\DinoRepuesto_Diesel\Logica\bin\Debug\Logica.pdb
+E:\Proyecto Dino\DinoRepuesto_Diesel\Logica\bin\Debug\Logica.xml
+E:\Proyecto Dino\DinoRepuesto_Diesel\Logica\bin\Debug\Datos.dll
+E:\Proyecto Dino\DinoRepuesto_Diesel\Logica\bin\Debug\Datos.pdb
+E:\Proyecto Dino\DinoRepuesto_Diesel\Logica\bin\Debug\Datos.xml
+E:\Proyecto Dino\DinoRepuesto_Diesel\Logica\obj\Debug\Logica.vbproj.AssemblyReference.cache
+E:\Proyecto Dino\DinoRepuesto_Diesel\Logica\obj\Debug\Logica.Resources.resources
+E:\Proyecto Dino\DinoRepuesto_Diesel\Logica\obj\Debug\Logica.vbproj.GenerateResource.cache
+E:\Proyecto Dino\DinoRepuesto_Diesel\Logica\obj\Debug\Logica.vbproj.CoreCompileInputs.cache
+E:\Proyecto Dino\DinoRepuesto_Diesel\Logica\obj\Debug\Logica.vbproj.CopyComplete
+E:\Proyecto Dino\DinoRepuesto_Diesel\Logica\obj\Debug\Logica.dll
+E:\Proyecto Dino\DinoRepuesto_Diesel\Logica\obj\Debug\Logica.xml
+E:\Proyecto Dino\DinoRepuesto_Diesel\Logica\obj\Debug\Logica.pdb
+C:\Users\USUARIO\source\repos\Prestamos\Logica\bin\Debug\Logica.dll
+C:\Users\USUARIO\source\repos\Prestamos\Logica\bin\Debug\Logica.pdb
+C:\Users\USUARIO\source\repos\Prestamos\Logica\bin\Debug\Logica.xml
+C:\Users\USUARIO\source\repos\Prestamos\Logica\bin\Debug\Datos.dll
+C:\Users\USUARIO\source\repos\Prestamos\Logica\bin\Debug\Datos.pdb
+C:\Users\USUARIO\source\repos\Prestamos\Logica\bin\Debug\Datos.xml
+C:\Users\USUARIO\source\repos\Prestamos\Logica\obj\Debug\Logica.vbproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\Prestamos\Logica\obj\Debug\Logica.Resources.resources
+C:\Users\USUARIO\source\repos\Prestamos\Logica\obj\Debug\Logica.vbproj.GenerateResource.cache
+C:\Users\USUARIO\source\repos\Prestamos\Logica\obj\Debug\Logica.vbproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\Prestamos\Logica\obj\Debug\Logica.vbproj.CopyComplete
+C:\Users\USUARIO\source\repos\Prestamos\Logica\obj\Debug\Logica.dll
+C:\Users\USUARIO\source\repos\Prestamos\Logica\obj\Debug\Logica.xml
+C:\Users\USUARIO\source\repos\Prestamos\Logica\obj\Debug\Logica.pdb
